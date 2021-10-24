@@ -8,7 +8,7 @@ export function MessageList() {
 
   const message = {
     id: '1',
-    text: 'mensagem de teste',
+    text: 'Não vejo a hora de começar esse evento, com certeza vai ser o melhor de todos os tempos, vamooo pra cima! 🔥🔥',
     user: {
       name: 'Deywerson',
       avatar_url: 'https://github.com/deywersonp.png',

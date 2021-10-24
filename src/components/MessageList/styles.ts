@@ -7,7 +7,7 @@ export const styles = StyleSheet.create({
   },
 
   content: {
-    paddingTop: 135,
+    paddingTop: 80,
     paddingBottom: 184
   }
 
